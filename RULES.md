@@ -30,7 +30,7 @@ Metricool markası: blogId 7937594, saat dilimi Europe/Istanbul.
 - Logo: assets/logo_A_klasik.png veya logo_B_berry.png; her zaman SOL ÜSTTE (post x56 y56 92px; story x56 y210).
 - Post 1080×1350, story 1080×1920. Story'de metin alt 270px'e girmez.
 - Carousel en fazla 6 sayfa.
-- Gerçek fotoğraf tercih edilir: Projedeki (PUDRA) fotoğraflar Projects tool ile okunabiliyorsa kullan; filigranlı olanları (IMG_4182, IMG_4184) kullanma.
+- Gerçek fotoğraf tercih edilir: Fotoğraf arşivi bu depoda `photos/` altında (ayakkabi, canta, kombin, tirnak, varsa kisisel = Eliz'in kendi kombin fotoğrafları → "Editörün Stili"). Kullanılan fotoğrafları `photos/KULLANILANLAR.md` dosyasına tarih + dosya adıyla ekle ve mümkünse kullanılmamışları seç. Filigranlı/başkasına ait görseller arşive alınmadı.
 
 ## Gündem içerikleri
 - Haber/trend içerikleri her zaman web araması ile doğrulanmış güncel bilgiye dayanır; kaynaklar açıklamada değil, kullanıcıya gönderilen özette listelenir.
