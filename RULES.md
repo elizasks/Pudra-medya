@@ -32,6 +32,21 @@ Metricool markası: blogId 7937594, saat dilimi Europe/Istanbul.
 - Carousel en fazla 6 sayfa.
 - Gerçek fotoğraf tercih edilir: Fotoğraf arşivi bu depoda `photos/` altında (ayakkabi, canta, kombin, tirnak, varsa kisisel = Eliz'in kendi kombin fotoğrafları → "Editörün Stili"). Kullanılan fotoğrafları `photos/KULLANILANLAR.md` dosyasına tarih + dosya adıyla ekle ve mümkünse kullanılmamışları seç. Filigranlı/başkasına ait görseller arşive alınmadı.
 
+## Strateji (7 Kasım 2026, "Pudra Büyüme ve Gelir Stratejisi" dokümanı)
+- Vaat: "Filtresiz güzellik, akıllı stil, gerçek ilişkiler." Ses tonu: akıllı abla; yargılamaz, esprili, net tavsiye, "sen" diye hitap.
+- Her kadına bir köşe: Her hafta 20'ler, 30'lar, 40'lar, 50+ gruplarının HER BİRİ en az bir post ya da story'de kendini görmeli (ör. "Aylık 500 TL'ye güzellik", "Sabah 7:45 formu", "40'tan sonra kimse söylemedi", "Kural yok, Pudra var").
+- İmza seriler (her serinin sabit sticker adı):
+  - Pazartesi 10:00 post: KIRMIZI BAYRAK (ilişki; "arkadaşına gönder")
+  - Çarşamba 10:00 post: KANDIRILMAMAK İÇİN (rehber; kaydettirir; sahte indirim, içerik etiketi, cilt mitleri)
+  - Cuma 10:00 post: YAŞ KÖŞESİ ("20'lerde / 40'larda bunu bil")
+  - Salı/Perşembe/Cumartesi 18:00: PUDRA GÜNDEM (gündem görevi)
+  - FİLTRESİZ (dürüst güzellik), EDİTÖRÜN STİLİ (Eliz'in fotoğrafları), HAFTA SONU MANİFESTOSU: slot boşsa post, değilse story olarak
+  - OKURLARDAN: story sorularına gelen cevaplardan (kullanıcı paylaşırsa) anonim carousel
+- Eliz'in hazır Reels videoları önceliklidir; varsa boş post slotlarına konur.
+- Story ritmi: 10:30 günün içeriğine yönlendirme, 13:00 etkileşim (A/B, doğru-yanlış, soru), 19:00 kişisel/ilham.
+- Facebook açıklaması 40+ kitle için biraz daha sıcak ve açıklayıcı olabilir (aynı gönderi, aynı metin kullanılabilir).
+- Haftalık özetin sonuna Metricool analitiğinden 4 sayı ekle (getAnalyticsDataByMetrics): takip etmeyenlere erişim, kaydetme+paylaşım, profil ziyareti→takip, net takipçi artışı; en iyi ve en zayıf içeriği belirt.
+
 ## Gündem içerikleri
 - Haber/trend içerikleri her zaman web araması ile doğrulanmış güncel bilgiye dayanır; kaynaklar açıklamada değil, kullanıcıya gönderilen özette listelenir.
 - Ünlülerin fotoğrafları kullanılmaz; tipografik/illüstratif tasarım yapılır. Siyasi konular, trajediler, kesinleşmemiş dedikodular, sağlık iddiaları kullanılmaz.
