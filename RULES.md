@@ -25,6 +25,7 @@ Metricool markası: blogId 7937594, saat dilimi Europe/Istanbul.
 
 ## Görsel stil
 - RENKLİ ve HAREKETLİ: renkli zeminler (Berry #8E1048, Pembe #F4C6D4, Mürdüm #2A1520, Kırmızı #D62839, Krem #FBF6F7, Black Friday için Siyah #160E12) dönüşümlü; büyük daireler (nefes alan), parıltılar, nokta grid, dalga çizgisi, eğik sticker etiketler.
+- KAPAK KURALI: Instagram ızgarada video carousel'in kapağı = ilk videonun İLK karesi (değiştirilemez). Carousel'in 1. videosu 0. saniyede tam dolu başlamalı (giriş animasyonu yok; sadece nefes alan daire/parıltı gibi hafif hareket). Kontrol: `ffmpeg -i p1.mp4 -frames:v 1 f0.jpg` ile ilk kareyi Read et. Reels'te videoCoverMilliseconds ile dolu bir kare seç.
 - Her carousel sayfası ve story 5–7 sn mp4. Öğeler sırayla kayarak/zıplayarak gelir. Her maddeye konusunu anlatan küçük illüstrasyon animasyonu.
 - Font: Poppins Bold başlık, Poppins Regular/Medium metin, Lora Bold Italic tek vurgu kelime. (Instrument Serif KULLANMA — "okunmuyor".) Ok/emoji glifleri fontlarda yok, "›" kullan.
 - Logo: assets/logo_A_klasik.png veya logo_B_berry.png; her zaman SOL ÜSTTE (post x56 y56 92px; story x56 y210).

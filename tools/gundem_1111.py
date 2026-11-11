@@ -255,7 +255,11 @@ def story(t):
     if s2 > 0: sticker(c, (SW // 2 + int(8 * math.sin(t * 6)), 1570), 'Yeni gönderide ›', F(BOLD, 46), PLUM, CREAM, -2, s2, 42, 22)
     logo(c, 'B', True); return c
 
-PAGES = [p1, p2, p3, p4, p5]
+def p1_cover(t):
+    # Instagram ızgara kapağı = ilk videonun İLK karesi. Kapak 0. saniyede tam dolu başlamalı.
+    return p1(t + 3.5)
+
+PAGES = [p1_cover, p2, p3, p4, p5]
 if __name__ == '__main__':
     arg = sys.argv[1]
     if arg == 'preview':
