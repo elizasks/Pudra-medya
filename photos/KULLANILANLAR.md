@@ -8,3 +8,10 @@
 - 2026-11-14 · Story: ayakkabi/IMG_4228
 - 2026-11-15 · Story: kombin/IMG_4183, tirnak/IMG_4161, tirnak/IMG_4159, kisisel/IMG_2991 (Editörün Stili)
 - 2026-11-10 · PUDRA GÜNDEM Met Gala (Eliz'in yapay zekâ görselleri): gundem/metgala_salon, metgala_kot, metgala_kapusonlu, metgala_tisort, metgala_sisme, metgala_trenc
+- 2026-11-16 · Story: kisisel/c685bd54 (Editörün Stili)
+- 2026-11-17 · Story: ayakkabi/IMG_4217, ayakkabi/IMG_4219 (çizme düellosu)
+- 2026-11-18 · Story: tirnak/IMG_4158
+- 2026-11-19 · Story: canta/IMG_4240
+- 2026-11-20 · Story: tirnak/IMG_4160, tirnak/IMG_4197 (manikür düellosu)
+- 2026-11-21 · Story: ayakkabi/IMG_4227
+- 2026-11-22 · Story: ayakkabi/IMG_4218
