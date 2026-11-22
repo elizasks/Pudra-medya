@@ -15,3 +15,10 @@
 - 2026-11-20 · Story: tirnak/IMG_4160, tirnak/IMG_4197 (manikür düellosu)
 - 2026-11-21 · Story: ayakkabi/IMG_4227
 - 2026-11-22 · Story: ayakkabi/IMG_4218
+- 2026-11-23 · Story: kisisel/IMG_2001 (Editörün Stili)
+- 2026-11-24 · Story: canta/IMG_4238, canta/IMG_4242 (çanta düellosu)
+- 2026-11-25 · Story: tirnak/IMG_4195
+- 2026-11-26 · Story: ayakkabi/IMG_4224
+- 2026-11-27 · Story: ayakkabi/IMG_4230, ayakkabi/IMG_4225 (ayakkabı düellosu)
+- 2026-11-28 · Story: kisisel/IMG_3030 (Editörün Stili)
+- 2026-11-29 · Story: canta/IMG_4234
